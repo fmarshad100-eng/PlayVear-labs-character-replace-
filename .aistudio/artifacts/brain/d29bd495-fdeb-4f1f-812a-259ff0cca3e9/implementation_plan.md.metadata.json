@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for PlayVear Labs - Character Replace. Defines system architecture, Fal.ai/Kling AI API integration via server proxy, dark certificate-style UI with 80% neon cyan and 20% neon magenta styling, video trimming up to 10s, multi-angle character sheet ingestion, and side-by-side video player.",
+  "updatedAt": "2026-11-05T17:13:07.817131848Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

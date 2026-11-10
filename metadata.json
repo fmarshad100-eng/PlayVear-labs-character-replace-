@@ -1,0 +1,6 @@
+{
+  "name": "PlayVear Labs, character replace",
+  "description": "AI-powered character and face replacement studio for music videos and films with Kling AI and Fal.ai integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
